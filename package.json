@@ -6,7 +6,7 @@
   "keywords": [
     "เว็บม่วงแท้",
   ],
-  "repository": "https://github.com/junior2142/betflix-",
+  "repository": "https://github.com/junior2142/betflix",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
